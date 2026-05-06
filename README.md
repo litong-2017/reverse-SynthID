@@ -8,6 +8,10 @@
   <b>Discovering, detecting, and surgically removing Google's AI watermark through spectral analysis</b>
 </p>
 
+<p align="center">
+  <a href="README_zh-CN.md">中文版 / Chinese Version</a>
+</p>
+
 Visit us on [PitchHut](https://www.pitchhut.com/project/reverse-synthid-engineering)
 
 <p align="center">
